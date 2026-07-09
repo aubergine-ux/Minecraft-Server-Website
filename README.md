@@ -31,5 +31,3 @@ Open source under the [MIT License](LICENSE).
 ---
 
 ⭐ Found this useful? Give it a star!
-
-Made with ❤️ by [AubergineUX](https://github.com/Aubergine-UX)
